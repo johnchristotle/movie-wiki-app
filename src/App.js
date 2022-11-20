@@ -50,7 +50,7 @@ const App = () => {
       ) : (
         <div className="empty">
           <h2>No movies found</h2>
-          <p>Please type in the search box to see movies</p>
+          <p>Please type in the search box to see movies.</p>
         </div>
       )}
 
