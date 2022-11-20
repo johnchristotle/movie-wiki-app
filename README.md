@@ -3,7 +3,7 @@
 * https://movie-wiki-app.vercel.app/
 
 ## Screenshot
-* [!Screenshoot](./src/screenshot/movie-pic.jpg)
+* ![Screenshoot](./src/screenshot/movie-pic.jpg)
 
 ## Available Scripts
 
